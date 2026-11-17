@@ -54,3 +54,16 @@ Endemic is grouped with native. Species on neither checklist are "Not listed." C
 - The ring is nearby land, not a matched control. Other disturbances can sit inside it.
 - A blank checklist listing means "not listed," not that the species is native or introduced.
 - Obscured coordinates are removed, so some rare plants never enter the comparison.
+
+## Other sources that can add to iNaturalist
+
+These are not used in the demo. Each one can add plant records, or a label on those records, that iNaturalist itself is thin on. Drop records that are already in iNaturalist before combining them, or the same photo gets counted twice.
+
+- **EDDMapS** — https://www.eddmaps.org/ — Reports of invasive plants from people and agencies, with coordinates. Use it to fill weeds that photographers skip, such as cheatgrass and thistles. It will not fill in the native flora.
+- **iMapInvasives** — https://www.imapinvasives.org/ — State invasive-species records, including some that never reach iNaturalist. Use it for the same weed gap as EDDMapS. Access and bulk download depend on the state.
+- **Pl@ntNet** — https://plantnet.org/ — The other large photo-identification project. Use it for extra plant photos with coordinates. Coverage in the Colorado mountains is thin compared with iNaturalist.
+- **SEINet** — https://swbiodiversity.org/seinet/ — Herbarium specimens from the southern Rockies and the Southwest. Use it for species recorded in the decades before iNaturalist, with a place and a date on a specimen rather than a photo.
+- **iDigBio** — https://www.idigbio.org/portal — Digitized specimens from collections across the country. Use it the same way as SEINet when the question moves beyond the Southwest. Specimen coordinates are often the place name, not a GPS point.
+- **GBIF** — https://www.gbif.org/ — One search across iNaturalist, Pl@ntNet, and herbaria. Use it to pull the non-iNaturalist records in one download. Filter out the iNaturalist publisher or the same observations are in both files.
+- **Nature's Notebook** — https://www.usanpn.org/natures_notebook — Repeat observations of marked plants, mostly phenology. Use it where a species was visited on many dates, which iNaturalist rarely does. It is a short list of species, not a flora.
+- **USDA PLANTS** — https://plants.usda.gov/ — State-level native and introduced status, not more sightings. Use it to label iNaturalist names when the iNaturalist checklist has no entry for that state.
