@@ -1,0 +1,787 @@
+species,common_name,origin,n_Burn_Before,n_Burn_After,n_Ring_Before,n_Ring_After,change_burn,change_ring,excess,response
+Cirsium arvense,creeping thistle,Introduced,2,97,1,17,3.0244741853603907,0.11886971809599743,2.9056044672643933,Rose more in the burn
+Artemisia tridentata,Big Sagebrush,Native,0,64,3,4,2.244039270687237,-0.11301514627156001,2.357054416958797,Rose more in the burn
+Pediocactus simpsonii,Mountain Ball Cactus,Native,5,86,15,94,2.073808184298592,0.17433274186362274,1.8994754424349694,Rose more in the burn
+Blitum capitatum,Beetberry,Native,1,55,1,9,1.7401473311093678,0.03893366693692471,1.7012136641724431,Rose more in the burn
+Chamaenerion angustifolium,fireweed,Native,8,73,18,70,1.053015956027818,-0.21845858346469177,1.2714745394925098,Rose more in the burn
+Gaillardia aristata,great blanketflower,Native,3,20,32,84,0.13629052067733216,-0.7924919625747644,0.9287824832520966,Similar
+Oreocarya virgata,Miner's Candle,Not listed,1,19,21,72,0.477875241347797,-0.35145774252602,0.829332983873817,Similar
+Anaphalis margaritacea,pearly everlasting,Native,1,26,6,28,0.7233170365792135,-0.02619016464543815,0.7495072012246516,Rose more in the burn
+Silene latifolia,white campion,Introduced,0,8,12,18,0.2805049088359046,-0.43207657229647184,0.7125814811323765,Similar
+Oxytropis lambertii,Lambert's Locoweed,Native,2,35,23,137,0.8505611418821298,0.19603389190738177,0.6545272499747481,Rose more in the burn
+Equisetum arvense,field horsetail,Native,0,20,2,16,0.7012622720897616,0.05788332108408122,0.6433789510056803,Rose more in the burn
+Jamesia americana,fivepetal cliffbush,Native,3,29,13,49,0.4518585431177249,-0.17331876467209717,0.6251773077898221,Similar
+Cleomella serrulata,Rocky Mountain Beeplant,Native,0,16,1,2,0.5610098176718092,-0.031010377827263944,0.5920201954990731,Too few in the ring
+Antennaria rosea,Rosy Pussytoes,Native,0,9,6,7,0.3155680224403927,-0.23602229893800408,0.5515903213783968,Similar
+Oenothera coronopifolia,crownleaf evening primrose,Native,0,11,4,11,0.3856942496493688,-0.0940654921244035,0.47975974177377234,Similar
+Carduus nutans,musk thistle,Introduced,5,30,19,61,0.11027382244726008,-0.35938103163568075,0.46965485408294083,Similar
+Castilleja rhexiifolia,Rhexia-leaved paintbrush,Native,1,5,14,24,-0.013008349115036063,-0.47411331516123156,0.4611049660461955,Too few in the burn
+Agoseris glauca,Pale agoseris,Native,0,6,6,7,0.21037868162692847,-0.23602229893800408,0.44640098056493255,Too few in the burn
+Rhodiola integrifolia,western roseroot,Native,0,0,12,17,0,-0.4420685786913559,0.4420685786913559,Too few in the burn
+Monarda fistulosa,wild bergamot,Native,2,15,22,85,0.14929886979236826,-0.27255605000955885,0.42185491980192713,Similar
+Cerastium arvense,field chickweed,Native,2,8,18,42,-0.09614292543904829,-0.49823476252144633,0.40209183708239804,Similar
+Dracocephalum parviflorum,American dragonhead,Native,0,10,1,1,0.3506311360448808,-0.04100238422214804,0.3916335202670288,Too few in the ring
+Penstemon whippleanus,Whipple's penstemon,Native,4,30,11,47,0.2985977395847365,-0.09131399622780102,0.3899117358125375,Similar
+Purshia tridentata,Antelope Bitterbrush,Native,0,7,13,53,0.24544179523141654,-0.13335073909256073,0.3787925343239773,Too few in the burn
+Senecio eremophilus,Cut-Leaved Ragwort,Native,0,11,0,2,0.3856942496493688,0.019984012789768184,0.36571023685960063,Too few in the ring
+Shepherdia canadensis,Canadian buffalo-berry,Native,1,16,4,22,0.3726859005343328,0.015846578219321512,0.3568393223150113,Similar
+Carex utriculata,Northwest Territory sedge,Native,0,10,0,1,0.3506311360448808,0.009992006394884092,0.3406391296499967,Too few in the ring
+Phacelia sericea,Silky Phacelia,Native,5,27,14,38,0.005084481633795858,-0.33422522563285423,0.3393097072666501,Similar
+Polemonium viscosum,sky pilot,Native,0,2,7,9,0.07012622720897616,-0.26703267676526804,0.3371589039742442,Too few in the burn
+Polemonium pulcherrimum,Delicate Jacob's-Ladder,Native,1,7,10,24,0.05711787809394009,-0.2701357526931031,0.32725363078704317,Similar
+Taraxacum officinale,common dandelion,Introduced,0,4,5,8,0.1402524544179523,-0.1750359019260879,0.3152883563440402,Too few in the burn
+Rhodiola rhodantha,Queen's Crown,Native,0,12,12,72,0.42075736325385693,0.1074917730272692,0.31326559022658773,Similar
+Physaria montana,Mountain Bladderpod,Not listed,0,8,2,9,0.2805049088359046,-0.01206072368010742,0.29256563251601203,Similar
+Heterotheca villosa,Hairy False Goldenaster,Native,2,3,12,5,-0.27145849346148865,-0.5619726554299651,0.29051416196847646,Too few in the burn
+Erigeron canadensis,horseweed,Native,0,5,2,0,0.1753155680224404,-0.10198878123406425,0.27730434925650466,Too few in the burn
+Gentiana algida,Arctic Gentian,Native,0,0,7,8,0,-0.2770246831601521,0.2770246831601521,Too few in the burn
+Leucanthemum vulgare,oxeye daisy,Introduced,0,7,1,2,0.24544179523141654,-0.031010377827263944,0.2764521730586805,Too few in the burn
+Trifolium dasyphyllum,whiproot clover,Native,0,3,5,9,0.10518934081346423,-0.1650438955312038,0.270233236344668,Too few in the burn
+Prunus virginiana,chokecherry,Native,1,8,16,64,0.09218099169842817,-0.17642184059993216,0.26860283229836035,Similar
+Veronica americana,American brooklime,Native,0,6,2,5,0.21037868162692847,-0.05202874925964379,0.26240743088657226,Too few in the burn
+Pinus flexilis,limber pine,Native,0,9,3,21,0.3155680224403927,0.056848962441469565,0.25871905999892314,Similar
+Penstemon virgatus,Gray’s Beardtongue,Not listed,0,11,2,23,0.3856942496493688,0.12782736584826987,0.25786688380109896,Similar
+Polemonium foliosissimum,leafy Jacob's ladder,Native,0,6,1,1,0.21037868162692847,-0.04100238422214804,0.2513810658490765,Too few in the burn
+Mertensia ciliata,mountain bluebells,Native,1,6,9,23,0.022054764489452015,-0.229133368470955,0.25118813296040704,Too few in the burn
+Bistorta bistortoides,American bistort,Native,0,2,9,29,0.07012622720897616,-0.16918133010165043,0.23930755731062658,Too few in the burn
+Delphinium barbeyi,Subalpine Larkspur,Native,0,6,4,18,0.21037868162692847,-0.02412144736021484,0.2345001289871433,Too few in the burn
+Penstemon secundiflorus,Sidebells Penstemon,Native,0,11,4,37,0.3856942496493688,0.16572667414258294,0.2199675755067859,Similar
+Carex canescens,hoary sedge,Native,0,8,0,7,0.2805049088359046,0.06994404476418865,0.21056086407171598,Similar
+Helianthus pumilus,Little Sunflower,Native,0,8,4,28,0.2805049088359046,0.07579861658862609,0.20470629224727854,Similar
+Agoseris parviflora,intermountain dandelion,Native,0,6,0,1,0.21037868162692847,0.009992006394884092,0.20038667523204437,Too few in the burn
+Penstemon strictus,Rocky Mountain beardtongue,Native,0,3,4,11,0.10518934081346423,-0.0940654921244035,0.19925483293786772,Too few in the burn
+Calochortus gunnisonii,Gunnison's Mariposa Lily,Native,6,35,21,97,0.09726547333222396,-0.10165758265391778,0.19892305598614174,Similar
+Castilleja septentrionalis,northern paintbrush,Native,0,3,3,6,0.10518934081346423,-0.09303113348179183,0.19822047429525608,Too few in the burn
+Phacelia hastata,Silverleaf phacelia,Native,1,11,8,41,0.19737033251189243,0.001717137253990763,0.19565319525790167,Similar
+Ceanothus velutinus,Snowbrush Ceanothus,Native,2,18,0,6,0.2544882106058325,0.05995203836930455,0.19453617223652794,Similar
+Corydalis aurea,golden corydalis,Native,3,22,6,32,0.20641674788630832,0.013777860934098204,0.1926388869522101,Similar
+Sphaeralcea coccinea,Scarlet Globemallow,Native,0,8,1,14,0.2805049088359046,0.08889369891134517,0.19161120992455943,Similar
+Collomia linearis,narrow-leaf mountain trumpet,Native,0,6,1,7,0.21037868162692847,0.018949654147156523,0.19142902747977195,Too few in the burn
+Verbascum thapsus,great mullein,Introduced,3,24,18,101,0.27654297509528447,0.09129361477671523,0.18524936031856926,Similar
+Agoseris aurantiaca,orange agoseris,Native,0,2,4,9,0.07012622720897616,-0.11404950491417168,0.18417573212314783,Too few in the burn
+Claytonia megarhiza,alpine springbeauty,Native,0,0,4,2,0,-0.18399354967836035,0.18399354967836035,Too few in the burn
+Hymenothrix dissecta,ragleaf bahia,Native,0,4,3,11,0.1402524544179523,-0.04307110150737136,0.18332355592532368,Too few in the burn
+Astragalus crassicarpus,Ground-plum,Native,0,6,0,3,0.21037868162692847,0.029976019184652276,0.18040266244227618,Too few in the burn
+Thermopsis rhombifolia,Golden bean,Native,1,6,4,5,0.022054764489452015,-0.15401753049370806,0.17607229498316007,Too few in the burn
+Carex aquatilis,water sedge,Native,0,7,0,7,0.24544179523141654,0.06994404476418865,0.17549775046722788,Too few in the burn
+Machaeranthera tanacetifolia,Tahoka daisy,Native,0,5,0,0,0.1753155680224404,0,0.1753155680224404,Too few in the burn
+Grindelia subalpina,subalpine gumweed,Not listed,0,6,4,24,0.21037868162692847,0.03583059100908969,0.17454809061783877,Too few in the burn
+Penstemon virens,Front Range Beardtongue,Not listed,6,39,26,139,0.23751792775017627,0.06303473284605346,0.1744831949041228,Similar
+Oxyria digyna,alpine sorrel,Native,0,2,3,5,0.07012622720897616,-0.10302313987667591,0.17314936708565207,Too few in the burn
+Hydrophyllum fendleri,Fendler's Waterleaf,Native,0,3,3,9,0.10518934081346423,-0.06305511429713954,0.16824445511060376,Too few in the burn
+Cardamine cordifolia,heartleaf bittercress,Native,1,6,4,7,0.022054764489452015,-0.13403351770393984,0.15608828219339185,Too few in the burn
+Swertia perennis,felwort,Native,0,6,3,21,0.21037868162692847,0.056848962441469565,0.1535297191854589,Too few in the burn
+Physocarpus monogynus,mountain ninebark,Native,0,7,6,40,0.24544179523141654,0.09371391209317095,0.1517278831382456,Too few in the burn
+Packera fendleri,Fendler's ragwort,Not listed,1,15,3,34,0.3376227869298447,0.18674504557496277,0.15087774135488194,Similar
+Rubus deliciosus,Rocky Mountain raspberry,Native,1,14,17,102,0.30255967332535666,0.15228001178863132,0.15027966153672534,Similar
+Chionophila jamesii,Rocky Mountain snowlover,Native,0,0,4,6,0,-0.14402552409882396,0.14402552409882396,Too few in the burn
+Hymenoxys grandiflora,Alpine Sunflower,Native,0,3,7,32,0.10518934081346423,-0.037216529682933916,0.14240587049639813,Too few in the burn
+Carex vesicaria,inflated sedge,Native,0,4,0,0,0.1402524544179523,0,0.1402524544179523,Too few in the burn
+Salix candida,Sage-leaf willow,Native,0,4,0,0,0.1402524544179523,0,0.1402524544179523,Too few in the burn
+Oenothera biennis,common evening-primrose,Native,0,1,2,0,0.03506311360448808,-0.10198878123406425,0.13705189483855235,Too few in the burn
+Marchantia polymorpha,Common Liverwort,Native,1,10,0,3,0.16230721890740432,0.029976019184652276,0.13233119972275204,Too few in the ring
+Silene acaulis,Moss Campion,Native,0,1,7,26,0.03506311360448808,-0.09716856805223845,0.13223168165672652,Too few in the burn
+Pedicularis groenlandica,Elephant's-Head lousewort,Native,3,13,16,58,-0.10915127455408437,-0.23637387896923667,0.12722260441515232,Similar
+Agropyron cristatum,Crested Wheatgrass,Introduced,1,6,4,10,0.022054764489452015,-0.10405749851928758,0.1261122630087396,Too few in the burn
+Geum aleppicum,Yellow Avens,Native,0,0,3,3,0,-0.12300715266644409,0.12300715266644409,Too few in the burn
+Lewisia pygmaea,dwarf lewisia,Native,0,2,2,5,0.07012622720897616,-0.05202874925964379,0.12215497646861995,Too few in the burn
+Primula angustifolia,Alpine Primrose,Native,0,2,2,5,0.07012622720897616,-0.05202874925964379,0.12215497646861995,Too few in the burn
+Geum rivale,Water Avens,Native,0,4,0,2,0.1402524544179523,0.019984012789768184,0.12026844162818412,Too few in the burn
+Senecio fremontii,Fremont's Ragwort,Native,0,1,2,2,0.03506311360448808,-0.08200476844429608,0.11706788204878416,Too few in the burn
+Orthilia secunda,one-sided wintergreen,Native,0,5,1,11,0.1753155680224404,0.05891767972669289,0.1163978882957475,Too few in the burn
+Allium geyeri,Geyer's onion,Native,0,2,6,26,0.07012622720897616,-0.046174177435206326,0.11630040464418248,Too few in the burn
+Bassia scoparia,summer-cypress,Introduced,0,2,1,1,0.07012622720897616,-0.04100238422214804,0.1111286114311242,Too few in the burn
+Erigeron pinnatisectus,Featherleaf Fleabane,Not listed,0,2,1,1,0.07012622720897616,-0.04100238422214804,0.1111286114311242,Too few in the burn
+Pseudotsuga menziesii,Douglas-fir,Native,1,0,19,67,-0.18832391713747645,-0.2994289932663762,0.11110507612889972,Too few in the burn
+Rhus aromatica,fragrant sumac,Native,1,0,6,1,-0.18832391713747645,-0.29597433730730865,0.1076504201698322,Too few in the burn
+Bistorta vivipara,alpine bistort,Native,0,5,1,12,0.1753155680224404,0.06890968612157697,0.10640588190086342,Too few in the burn
+Astragalus drummondii,Drummond's Milkvetch,Native,0,3,1,5,0.10518934081346423,-0.0010343586426116657,0.1062236994560759,Too few in the burn
+Pseudognaphalium macounii,macoun's everlasting,Native,0,5,0,7,0.1753155680224404,0.06994404476418865,0.10537152325825173,Too few in the burn
+Eschscholzia californica,California poppy,Native,0,3,0,0,0.10518934081346423,0,0.10518934081346423,Too few in the burn
+Galium verum,Lady's Bedstraw,Introduced,0,3,0,0,0.10518934081346423,0,0.10518934081346423,Too few in the burn
+Salsola tragus,Prickly Russian Thistle,Introduced,0,3,0,0,0.10518934081346423,0,0.10518934081346423,Too few in the burn
+Clematis ligusticifolia,Western White Clematis,Native,0,0,5,15,0,-0.10509185716189924,0.10509185716189924,Too few in the burn
+Symphyotrichum porteri,Smooth White Aster,Not listed,1,1,7,10,-0.15326080353298838,-0.257040670370384,0.1037798668373956,Too few in the burn
+Toxicodendron rydbergii,western poison ivy,Native,0,4,3,19,0.1402524544179523,0.03686494965170139,0.10338750476625092,Too few in the burn
+Galium aparine,catchweed bedstraw,Introduced,0,0,3,5,0,-0.10302313987667591,0.10302313987667591,Too few in the burn
+Polytrichum juniperinum,juniper haircap moss,Native,0,0,2,0,0,-0.10198878123406425,0.10198878123406425,Too few in the burn
+Sisymbrium altissimum,Tall Tumblemustard,Introduced,0,2,1,2,0.07012622720897616,-0.031010377827263944,0.1011366050362401,Too few in the burn
+Trifolium repens,white clover,Introduced,1,5,3,4,-0.013008349115036063,-0.11301514627156001,0.10000679715652394,Too few in the burn
+Oenothera suffrutescens,Scarlet Beeblossom,Native,0,5,3,23,0.1753155680224404,0.07683297523123775,0.09848259279120264,Too few in the burn
+Collinsia parviflora,small-flowered blue-eyed mary,Native,1,6,6,23,0.022054764489452015,-0.07615019661985864,0.09820496110931065,Too few in the burn
+Linanthus pungens,Granite Prickly Phlox,Native,0,3,2,11,0.10518934081346423,0.007923289109660756,0.09726605170380348,Too few in the burn
+Pectiantia pentandra,Alpine Mitrewort,Native,0,5,0,8,0.1753155680224404,0.07993605115907274,0.09537951686336765,Too few in the burn
+Arnica parryi,nodding arnica,Native,0,3,0,1,0.10518934081346423,0.009992006394884092,0.09519733441858014,Too few in the burn
+Carex siccata,dry land sedge,Native,0,3,0,1,0.10518934081346423,0.009992006394884092,0.09519733441858014,Too few in the burn
+Cryptogramma acrostichoides,American parsley fern,Native,0,3,0,1,0.10518934081346423,0.009992006394884092,0.09519733441858014,Too few in the burn
+Hieracium albiflorum,white hawkweed,Native,0,3,0,1,0.10518934081346423,0.009992006394884092,0.09519733441858014,Too few in the burn
+Sidalcea candida,prairie mallow,Native,0,3,0,1,0.10518934081346423,0.009992006394884092,0.09519733441858014,Too few in the burn
+Aconitum columbianum,Columbian Monkshood,Native,0,6,2,22,0.21037868162692847,0.11783535945338577,0.09254332217354269,Too few in the burn
+Anemone cylindrica,Cylindrical Thimbleweed,Native,0,2,2,8,0.07012622720897616,-0.02205273007499152,0.09217895728396767,Too few in the burn
+Antennaria anaphaloides,Handsome Pussytoes,Native,0,2,1,3,0.07012622720897616,-0.021018371432379855,0.09114459864135602,Too few in the burn
+Dryas hookeriana,Hooker's Mountain-Avens,Native,0,4,0,5,0.1402524544179523,0.04996003197442046,0.09029242244353185,Too few in the burn
+Ribes aureum,golden currant,Native,0,1,2,5,0.03506311360448808,-0.05202874925964379,0.08709186286413187,Too few in the burn
+Dieteria bigelovii,Bigelow's Tansyaster,Native,0,1,1,0,0.03506311360448808,-0.05099439061703213,0.0860575042215202,Too few in the burn
+Potentilla gracilis,slender cinquefoil,Native,0,1,1,0,0.03506311360448808,-0.05099439061703213,0.0860575042215202,Too few in the burn
+Viola minuscula,northern white violet,Native,0,1,1,0,0.03506311360448808,-0.05099439061703213,0.0860575042215202,Too few in the burn
+Platanthera dilatata,white bog orchid,Native,2,15,6,37,0.14929886979236826,0.0637378929085187,0.08556097688384956,Similar
+Cirsium vulgare,Bull Thistle,Introduced,0,3,0,2,0.10518934081346423,0.019984012789768184,0.08520532802369604,Too few in the burn
+Dieteria canescens,Hoary Tansyaster,Native,0,3,0,2,0.10518934081346423,0.019984012789768184,0.08520532802369604,Too few in the burn
+Juncus mertensianus,mertens' rush,Native,0,3,0,2,0.10518934081346423,0.019984012789768184,0.08520532802369604,Too few in the burn
+Platanthera purpurascens,Purple-petal Bog Orchid,Native,0,3,0,2,0.10518934081346423,0.019984012789768184,0.08520532802369604,Too few in the burn
+Phlox condensata,dwarf phlox,Native,0,0,4,12,0,-0.08407348572951942,0.08407348572951942,Too few in the burn
+Aralia nudicaulis,wild sarsaparilla,Native,0,0,3,7,0,-0.08303912708690772,0.08303912708690772,Too few in the burn
+Arnica fulgens,hillside arnica,Native,0,2,2,9,0.07012622720897616,-0.01206072368010742,0.08218695088908358,Too few in the burn
+Heliomeris multiflora,showy goldeneye,Native,0,0,2,2,0,-0.08200476844429608,0.08200476844429608,Too few in the burn
+Solidago simplex,Sticky Goldenrod,Native,0,0,2,2,0,-0.08200476844429608,0.08200476844429608,Too few in the burn
+Escobaria vivipara,Spinystar,Native,0,6,0,13,0.21037868162692847,0.1298960831334932,0.08048259849343525,Too few in the burn
+Luzula parviflora,Small-flower Woodrush,Native,0,4,0,6,0.1402524544179523,0.05995203836930455,0.08030041604864777,Too few in the burn
+Orthocarpus luteus,yellow owl's-clover,Native,0,3,2,13,0.10518934081346423,0.027907301899428957,0.07728203891403528,Too few in the burn
+Sibbaldia procumbens,creeping sibbaldia,Native,0,3,1,8,0.10518934081346423,0.02894166054204061,0.07624768027142362,Too few in the burn
+Campanula uniflora,Arctic Harebell,Native,0,1,1,1,0.03506311360448808,-0.04100238422214804,0.07606549782663612,Too few in the burn
+Gagea serotina,Snowdon Lily,Native,0,1,1,1,0.03506311360448808,-0.04100238422214804,0.07606549782663612,Too few in the burn
+Montia chamissoi,toadlily,Native,0,1,1,1,0.03506311360448808,-0.04100238422214804,0.07606549782663612,Too few in the burn
+Phleum alpinum,Alpine Timothy,Native,0,1,1,1,0.03506311360448808,-0.04100238422214804,0.07606549782663612,Too few in the burn
+Thalictrum fendleri,Fendler's Meadow-rue,Native,0,1,1,1,0.03506311360448808,-0.04100238422214804,0.07606549782663612,Too few in the burn
+Turritis glabra,Tower Mustard,Native,0,1,1,1,0.03506311360448808,-0.04100238422214804,0.07606549782663612,Too few in the burn
+Trifolium hybridum,Alsike clover,Introduced,0,5,0,10,0.1753155680224404,0.09992006394884093,0.07539550407359946,Too few in the burn
+Comandra umbellata,bastard toadflax,Native,0,3,0,3,0.10518934081346423,0.029976019184652276,0.07521332162881196,Too few in the burn
+Spergularia rubra,Red Sand Spurrey,Introduced,0,3,0,3,0.10518934081346423,0.029976019184652276,0.07521332162881196,Too few in the burn
+Allium textile,Textile onion,Native,0,4,3,22,0.1402524544179523,0.06684096883635365,0.07341148558159866,Too few in the burn
+Senecio spartioides,Broom-like Ragwort,Native,0,4,2,17,0.1402524544179523,0.06787532747896531,0.072377126938987,Too few in the burn
+Berteroa incana,hoary alyssum,Introduced,0,0,2,3,0,-0.07201276204941198,0.07201276204941198,Too few in the burn
+Arnica mollis,hairy arnica,Native,0,2,1,5,0.07012622720897616,-0.0010343586426116657,0.07116058585158783,Too few in the burn
+Linaria vulgaris,common toadflax,Introduced,0,2,1,5,0.07012622720897616,-0.0010343586426116657,0.07116058585158783,Too few in the burn
+Agrostis scabra,Rough Bentgrass,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Alyssum desertorum,desert madwort,Introduced,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Atriplex canescens,Fourwing Saltbush,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Caragana arborescens,Siberian peashrub,Introduced,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Carex buxbaumii,Buxbaum's sedge,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Carex lasiocarpa,Slender Sedge,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Centaurea cyanus,Cornflower,Introduced,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Geranium bicknellii,Northern Cranesbill,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Menyanthes trifoliata,Bogbean,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Solanum triflorum,Cutleaf Nightshade,Introduced,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Symphoricarpos albus,Common Snowberry,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Symphyotrichum ascendens,western aster,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Typha latifolia,broadleaf cattail,Native,0,2,0,0,0.07012622720897616,0,0.07012622720897616,Too few in the burn
+Ranunculus adoneus,alpine buttercup,Native,0,1,2,7,0.03506311360448808,-0.03204473646987561,0.06710785007436368,Too few in the burn
+Ratibida columnifera,upright prairie coneflower,Native,1,5,9,38,-0.013008349115036063,-0.07925327254769357,0.0662449234326575,Too few in the burn
+Betula occidentalis,water birch,Native,0,1,1,2,0.03506311360448808,-0.031010377827263944,0.06607349143175202,Too few in the burn
+Carex nebrascensis,Nebraska sedge,Native,0,1,1,2,0.03506311360448808,-0.031010377827263944,0.06607349143175202,Too few in the burn
+Centaurea stoebe,spotted knapweed,Introduced,0,1,1,2,0.03506311360448808,-0.031010377827263944,0.06607349143175202,Too few in the burn
+Carex ebenea,Ebony Sedge,Native,0,3,0,4,0.10518934081346423,0.03996802557953637,0.06522131523392787,Too few in the burn
+Matricaria discoidea,pineapple-weed,Native,0,3,0,4,0.10518934081346423,0.03996802557953637,0.06522131523392787,Too few in the burn
+Geum triflorum,prairie smoke,Native,0,10,1,34,0.3506311360448808,0.28873382680902704,0.06189730923585374,Similar
+Dactylis glomerata,orchard grass,Introduced,0,2,1,6,0.07012622720897616,0.008957647752272422,0.06116857945670373,Too few in the burn
+Carex egglestonii,Eggleston's Sedge,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Carex microptera,small-winged sedge,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Gnaphalium exilifolium,slender cudweed,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Hordeum jubatum,Foxtail Barley,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Koeleria spicata,spike trisetum,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Panicum capillare,witch grass,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Physalis longifolia,long-leaved groundcherry,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Potentilla effusa,Branched Cinquefoil,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Prunus pensylvanica,fire cherry,Native,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Syringa vulgaris,common lilac,Introduced,0,2,0,1,0.07012622720897616,0.009992006394884092,0.06013422081409206,Too few in the burn
+Aliciella pinnatifida,Sticky Gilia,Native,1,7,1,5,0.05711787809394009,-0.0010343586426116657,0.05815223673655175,Similar
+Hesperostipa comata,Needle-and-thread Grass,Native,0,1,1,3,0.03506311360448808,-0.021018371432379855,0.05608148503686793,Too few in the burn
+Plantago major,greater plantain,Introduced,0,1,1,3,0.03506311360448808,-0.021018371432379855,0.05608148503686793,Too few in the burn
+Calamagrostis canadensis,canadian bluejoint,Native,0,3,0,5,0.10518934081346423,0.04996003197442046,0.05522930883904377,Too few in the burn
+Artemisia ludoviciana,Silver Wormwood,Native,2,8,10,36,-0.09614292543904829,-0.1502316759544939,0.05408875051544562,Similar
+Escobaria missouriensis,Missouri Foxtail Cactus,Native,0,0,3,10,0,-0.05306310790225545,0.05306310790225545,Too few in the burn
+Hedwigia ciliata,Ciliate Hoarmoss,Native,0,0,2,5,0,-0.05202874925964379,0.05202874925964379,Too few in the burn
+Penstemon procerus,Small-flower Beardtongue,Native,0,0,2,5,0,-0.05202874925964379,0.05202874925964379,Too few in the burn
+Cercocarpus montanus,Alderleaf Mountain Mahogany,Native,1,5,24,116,-0.013008349115036063,-0.06479263300221624,0.05178428388718018,Too few in the burn
+Alopecurus pratensis,Meadow Foxtail,Introduced,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Arabis pycnocarpa,Slender Rockcress,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Cirsium clavatum,Fish Lake Thistle,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Crataegus erythropoda,Cerro Hawthorn,Not listed,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Cucurbita foetidissima,Buffalo Gourd,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Danthonia parryi,Parry's Oatgrass,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Delphinium elatum,Alpine Larkspur,Not listed,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Descurainia sophia,flixweed,Introduced,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Erigeron elatior,tall fleabane,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Iris ×,,Introduced,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Leymus cinereus,Great Basin Wildrye,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Linum pratense,Meadow Flax,Not listed,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Musineon divaricatum,leafy wildparsley,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Oenothera nuttallii,White-stemmed Evening-primrose,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Penstemon angustifolius,Broadbeard Beardtongue,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Physocarpus malvaceus,mallow-leaf ninebark,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Populus alba,white poplar,Introduced,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Senecio taraxacoides,dandelion ragwort,Not listed,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Silene vulgaris,bladder campion,Introduced,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Sporobolus cryptandrus,Sand Dropseed,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Townsendia exscapa,Easter daisy,Native,0,0,1,0,0,-0.05099439061703213,0.05099439061703213,Too few in the burn
+Anemonastrum canadense,Canada anemone,Native,1,3,3,2,-0.08313457632401222,-0.1329991590613282,0.04986458273731598,Too few in the burn
+Astragalus flexuosus,Flexible Milkvetch,Native,0,3,2,16,0.10518934081346423,0.05788332108408122,0.04730601972938301,Too few in the burn
+Castilleja occidentalis,western paintbrush,Native,0,1,2,9,0.03506311360448808,-0.01206072368010742,0.0471238372845955,Too few in the burn
+Aristida purpurea,Purple Threeawn,Native,0,1,1,4,0.03506311360448808,-0.01102636503749576,0.04608947864198384,Too few in the burn
+Veronica wormskjoldii,American alpine speedwell,Native,0,5,0,13,0.1753155680224404,0.1298960831334932,0.045419484888947176,Too few in the burn
+Lithospermum incisum,narrowleaf puccoon,Native,0,6,1,22,0.21037868162692847,0.16882975007041792,0.04154893155651054,Too few in the burn
+Campanula parryi,Parry's northern harebell,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Chenopodium album,Common Lambsquarters,Introduced,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Erythranthe hallii,Hall’s Monkeyflower,Not listed,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Euphorbia marginata,snow-on-the-mountain,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Parthenocissus quinquefolia,Virginia creeper,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Phacelia heterophylla,virgate scorpionweed,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Phemeranthus confertiflorus,Rocky Mountain Fameflower,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Phlox multiflora,flowery phlox,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Symphyotrichum foliaceum,Leafy Aster,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Urtica gracilis,American stinging nettle,Native,0,0,1,1,0,-0.04100238422214804,0.04100238422214804,Too few in the burn
+Acer negundo,box elder,Native,0,2,0,3,0.07012622720897616,0.029976019184652276,0.04015020802432388,Too few in the burn
+Asclepias pumila,plains milkweed,Native,0,2,0,3,0.07012622720897616,0.029976019184652276,0.04015020802432388,Too few in the burn
+Boechera angustifolia,drummond's rockcress,Native,0,2,0,3,0.07012622720897616,0.029976019184652276,0.04015020802432388,Too few in the burn
+Erigeron vetensis,Early Bluetop Fleabane,Native,0,2,0,3,0.07012622720897616,0.029976019184652276,0.04015020802432388,Too few in the burn
+Eriogonum effusum,Spreading Buckwheat,Not listed,0,2,0,3,0.07012622720897616,0.029976019184652276,0.04015020802432388,Too few in the burn
+Juncus balticus,Baltic Rush,Native,0,2,0,3,0.07012622720897616,0.029976019184652276,0.04015020802432388,Too few in the burn
+Vicia americana,American vetch,Native,0,1,2,10,0.03506311360448808,-0.0020687172852233314,0.037131830889711406,Too few in the burn
+Bromus inermis,Smooth Brome,Introduced,0,2,5,29,0.07012622720897616,0.03479623236647806,0.035329994842498096,Too few in the burn
+Astragalus agrestis,field milkvetch,Native,0,3,0,7,0.10518934081346423,0.06994404476418865,0.03524529604927558,Too few in the burn
+Adoxa moschatellina,Moschatel,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Amaranthus retroflexus,Redroot Amaranth,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Angelica pinnata,Small-leaf Angelica,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Argemone hispida,Rough Pricklypoppy,Not listed,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Artemisia cana,Silver Sagebrush,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Beckmannia syzigachne,american slough grass,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Bouteloua dactyloides,buffalograss,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Bromus japonicus,Japanese brome,Introduced,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Campanula rapunculoides,Creeping Bellflower,Introduced,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex diandra,lesser tussock sedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex echinata,star sedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex interior,inland sedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex livida,livid sedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex pachystachya,starry broomsedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex simulata,Analogue Sedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Carex xerantica,whitescale sedge,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Castilleja flava,yellow paintbrush,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Cerastium holosteoides,Common mouse-ear chickweed,Introduced,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Chrysothamnus viscidiflorus,Yellow Rabbitbrush,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Cirsium centaureae,Fringed Thistle,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Coreopsis tinctoria,plains coreopsis,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Epilobium ciliatum,fringed willowherb,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Eragrostis cilianensis,stinkgrass,Introduced,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Erigeron divergens,spreading fleabane,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Heterotheca paniculata,,Not listed,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Lactuca pulchella,common blue lettuce,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Microsteris gracilis,slender phlox,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Mirabilis linearis,Narrowleaf Four o'Clock,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Nicotiana attenuata,Coyote Tobacco,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Papaver rhoeas,common poppy,Introduced,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Petasites frigidus,Arrowleaf Sweet Coltsfoot,Not listed,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Phacelia alba,White Phacelia,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Poa compressa,Canada bluegrass,Introduced,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Salix bebbiana,bebb's willow,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Scutellaria galericulata,Marsh Skullcap,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Silene drummondii,Drummond's Campion,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Stephanomeria pauciflora,Brownplume Wirelettuce,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Thermopsis divaricarpa,spreadfruit goldenbanner,Not listed,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Valeriana acutiloba,Sharpleaf Valerian,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Viola palustris,alpine marsh violet,Native,0,1,0,0,0.03506311360448808,0,0.03506311360448808,Too few in the burn
+Lilium philadelphicum,Wood Lily,Native,0,0,3,12,0,-0.03307909511248727,0.03307909511248727,Too few in the burn
+Thlaspi arvense,field penny-cress,Introduced,0,2,2,14,0.07012622720897616,0.037899308294313046,0.03222691891466311,Too few in the burn
+Ambrosia psilostachya,western ragweed,Native,0,0,2,7,0,-0.03204473646987561,0.03204473646987561,Too few in the burn
+Koeleria macrantha,Prairie Junegrass,Native,0,0,2,7,0,-0.03204473646987561,0.03204473646987561,Too few in the burn
+Mertensia lanceolata,Prairie Bluebells,Native,1,7,4,23,0.05711787809394009,0.0258385846142056,0.03127929347973449,Similar
+Drymocallis arguta,Tall Cinquefoil,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Euphorbia myrsinites,Donkey Tail,Introduced,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Gaillardia pulchella,firewheel,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Gleditsia triacanthos,honey locust,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Heterotheca hirsutissima,Harsh False Goldenaster,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Hypericum perforatum,Common St. John's Wort,Introduced,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Lactuca biennis,tall blue lettuce,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Melilotus albus,White Sweetclover,Introduced,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Populus deltoides,Plains cottonwood,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Saxifraga chrysantha,golden saxifrage,Native,0,0,1,2,0,-0.031010377827263944,0.031010377827263944,Too few in the burn
+Fragaria vesca,woodland strawberry,Native,0,2,0,4,0.07012622720897616,0.03996802557953637,0.030158201629439788,Too few in the burn
+Heracleum maximum,common cowparsnip,Native,4,14,12,32,-0.26241207808707273,-0.29218848276809456,0.02977640468102183,Similar
+Clematis occidentalis,Purple Clematis,Native,1,2,6,16,-0.1181976899285003,-0.14609424138404728,0.02789655145554698,Too few in the burn
+Bouteloua curtipendula,sideoats grama,Native,0,1,1,6,0.03506311360448808,0.008957647752272422,0.026105465852215654,Too few in the burn
+Cystopteris fragilis,brittle bladderfern,Native,0,1,1,6,0.03506311360448808,0.008957647752272422,0.026105465852215654,Too few in the burn
+Antennaria parvifolia,small-leaf pussytoes,Native,0,3,0,8,0.10518934081346423,0.07993605115907274,0.025253289654391498,Too few in the burn
+Agrostis gigantea,redtop,Introduced,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Aphyllon fasciculatum,clustered broomrape,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Arnica latifolia,broadleaf arnica,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Astragalus miser,Timber Milkvetch,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Carex phaeocephala,Dunhead Sedge,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Cirsium scariosum,Elk Thistle,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Eriocoma hymenoides,Sand Ricegrass,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Filago arvensis,field fluffweed,Introduced,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Gaillardia ×,Hybrid Blanketflower,Introduced,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Galium triflorum,fragrant bedstraw,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Gilia clokeyi,Clokey's gilia,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Krascheninnikovia lanata,Winterfat,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Mentha canadensis,Canada mint,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Nasturtium officinale,watercress,Introduced,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Oenothera curtiflora,velvetweed,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Persicaria amphibia,water smartweed,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Plantago patagonica,Woolly Plantain,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Polemonium occidentale,western Jacob's ladder,Native,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Rumex acetosella,Sheep's sorrel,Introduced,0,1,0,1,0.03506311360448808,0.009992006394884092,0.025071107209603986,Too few in the burn
+Pyrola chlorantha,green-flowered wintergreen,Native,1,6,1,5,0.022054764489452015,-0.0010343586426116657,0.02308912313206368,Too few in the burn
+Saxifraga bronchialis,Mat Saxifrage,Native,0,4,2,22,0.1402524544179523,0.11783535945338577,0.022417094964566536,Too few in the burn
+Moneses uniflora,One-flowered Wintergreen,Native,0,0,2,8,0,-0.02205273007499152,0.02205273007499152,Too few in the burn
+Erodium cicutarium,Redstem Stork's-bill,Introduced,2,6,8,22,-0.16626915264802444,-0.188130984248807,0.02186183160078256,Similar
+Apocynum cannabinum,hemp dogbane,Native,0,0,1,3,0,-0.021018371432379855,0.021018371432379855,Too few in the burn
+Monarda pectinata,Plains Beebalm,Native,0,0,1,3,0,-0.021018371432379855,0.021018371432379855,Too few in the burn
+Oenothera albicaulis,White-stem Evening Primrose,Native,0,0,1,3,0,-0.021018371432379855,0.021018371432379855,Too few in the burn
+Polytrichum piliferum,bristly haircap moss,Native,0,0,1,3,0,-0.021018371432379855,0.021018371432379855,Too few in the burn
+Veronica anagallis-aquatica,blue water-speedwell,Introduced,0,0,1,3,0,-0.021018371432379855,0.021018371432379855,Too few in the burn
+Xanthium strumarium,rough cocklebur,Native,0,0,1,3,0,-0.021018371432379855,0.021018371432379855,Too few in the burn
+Linum lewisii,Lewis flax,Native,2,2,7,3,-0.30652160706597675,-0.3269847151345726,0.02046310806859586,Too few in the burn
+Angelica ampla,giant angelica,Native,0,2,0,5,0.07012622720897616,0.04996003197442046,0.020166195234555692,Too few in the burn
+Picea pungens,blue spruce,Native,1,3,3,5,-0.08313457632401222,-0.10302313987667591,0.01988856355266369,Too few in the burn
+Oenothera cespitosa,fragrant evening primrose,Native,0,4,7,48,0.1402524544179523,0.12265557263521154,0.01759688178274077,Too few in the burn
+Actaea rubra,red baneberry,Native,2,10,3,11,-0.026016698230072126,-0.04307110150737136,0.017054403277299235,Similar
+Schizachyrium scoparium,little bluestem,Native,0,1,1,7,0.03506311360448808,0.018949654147156523,0.016113459457331555,Too few in the burn
+Selaginella densa,dense spikemoss,Native,0,3,0,9,0.10518934081346423,0.08992805755395684,0.015261283259507388,Too few in the burn
+Arceuthobium americanum,Lodgepole Pine Dwarf-Mistletoe,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Carex disperma,two-seeded sedge,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Carex duriuscula,Needleleaf sedge,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Cirsium griseum,Osterhout's Thistle,Not listed,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Conium maculatum,poison hemlock,Introduced,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Euphrosyne xanthiifolia,Marshelder,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Lappula occidentalis,Flatspine Stickseed,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Lygodesmia juncea,rush skeletonplant,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Maianthemum racemosum,western Solomon's plume,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Malva neglecta,dwarf mallow,Introduced,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Oxytropis campestris,field locoweed,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Oxytropis deflexa,Nodding Locoweed,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Salix planifolia,tea-leafed willow,Native,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Solanum rostratum,buffalo-bur,Introduced,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Tanacetum vulgare,Common Tansy,Introduced,0,1,0,2,0.03506311360448808,0.019984012789768184,0.015079100814719894,Too few in the burn
+Neottia cordata,Heartleaf Twayblade,Native,0,0,3,14,0,-0.013095082322719075,0.013095082322719075,Too few in the burn
+Opuntia macrorhiza,prairie pricklypear,Native,0,0,3,14,0,-0.013095082322719075,0.013095082322719075,Too few in the burn
+Rudbeckia laciniata,cutleaf coneflower,Native,0,4,2,23,0.1402524544179523,0.12782736584826987,0.012425088569682441,Too few in the burn
+Delphinium carolinianum,Prairie Larkspur,Native,0,0,1,4,0,-0.01102636503749576,0.01102636503749576,Too few in the burn
+Ellisia nyctelea,Aunt Lucy,Native,0,0,1,4,0,-0.01102636503749576,0.01102636503749576,Too few in the burn
+Knautia arvensis,Field Scabious,Introduced,0,0,1,4,0,-0.01102636503749576,0.01102636503749576,Too few in the burn
+Tonestus pygmaeus,Pygmy Goldenweed,Not listed,0,0,1,4,0,-0.01102636503749576,0.01102636503749576,Too few in the burn
+Anemonastrum zephyrum,narcissus anemone,Not listed,1,3,4,11,-0.08313457632401222,-0.0940654921244035,0.01093091580039128,Too few in the burn
+Erigeron glacialis,Subalpine Fleabane,Native,0,2,0,6,0.07012622720897616,0.05995203836930455,0.010174188839671604,Too few in the burn
+Juncus ensifolius,dagger rush,Native,0,2,0,6,0.07012622720897616,0.05995203836930455,0.010174188839671604,Too few in the burn
+Clematis hirsutissima,hairy clematis,Native,0,0,19,96,0,-0.009660807814737549,0.009660807814737549,Too few in the burn
+Caltha chionophila,Rocky mountain marsh-marigold,Native,2,8,15,66,-0.09614292543904829,-0.10544343719313182,0.00930051175408353,Similar
+Eritrichium argenteum,pale alpine forget-me-not,Not listed,1,7,1,10,0.05711787809394009,0.0489256733318088,0.00819220476213129,Similar
+Rubus idaeus,red raspberry,Native,3,13,6,19,-0.10915127455408437,-0.116118222199395,0.0069669476453106255,Similar
+Pedicularis procera,giant lousewort,Native,0,3,1,15,0.10518934081346423,0.09888570530622925,0.006303635507234978,Too few in the burn
+Cirsium scopulorum,Mountain Thistle,Native,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Elymus canadensis,Canada wild rye,Native,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Eurybia glauca,blueleaf aster,Native,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Onopordum acanthium,cotton thistle,Introduced,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Potentilla pulcherrima,white-leaved cinquefoil,Native,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Senecio bigelovii,Nodding Ragwort,Native,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Thinopyrum intermedium,Intermediate Wheatgrass,Introduced,0,1,0,3,0.03506311360448808,0.029976019184652276,0.005087094419835802,Too few in the burn
+Achillea millefolium,common yarrow,Native,14,29,43,57,-1.6197045453945162,-1.6232144320239883,0.0035098866294720477,Similar
+Trifolium parryi,Parry Clover,Native,0,0,1,5,0,-0.0010343586426116657,0.0010343586426116657,Too few in the burn
+Hesperis matronalis,dame's rocket,Introduced,0,2,0,7,0.07012622720897616,0.06994404476418865,1.8218244478750145e-4,Too few in the burn
+Lithospermum multiflorum,manyflowered gromwell,Native,0,1,3,19,0.03506311360448808,0.03686494965170139,-0.0018018360472133108,Too few in the burn
+Pterospora andromedea,woodland pinedrops,Native,2,11,8,42,0.00904641537441595,0.011709143648874851,-0.0026627282744589014,Similar
+Bromus tectorum,Cheatgrass,Introduced,1,2,4,9,-0.1181976899285003,-0.11404950491417168,-0.00414818501432862,Too few in the burn
+Platanthera aquilonis,north wind bog orchid,Native,0,1,0,4,0.03506311360448808,0.03996802557953637,-0.00490491197504829,Too few in the burn
+Ranunculus glaberrimus,sagebrush buttercup,Native,0,2,1,13,0.07012622720897616,0.07890169251646109,-0.008775465307484936,Too few in the burn
+Brickellia grandiflora,tasselflower brickellia,Native,0,0,1,6,0,0.008957647752272422,-0.008957647752272422,Too few in the burn
+Agrimonia striata,roadside agrimony,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Alopecurus aequalis,short-awn foxtail,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Androsace filiformis,slender-stemmed androsace,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Angelica atropurpurea,purple-stemmed angelica,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Argentina anserina,common silverweed,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Arrhenatherum elatius,tall oat grass,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Asperugo procumbens,Madwort,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Astragalus bisulcatus,Two-grooved Milkvetch,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Astragalus lotiflorus,Low Milkvetch,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Avena sativa,Common Oat,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Blitum virgatum,Strawberry Goosefoot,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Boechera grahamii,Graham's Rockcress,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Bouteloua hirsuta,hairy grama,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Bromus ciliatus,Fringed Brome,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Bromus porteri,porter's brome,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Bryum lanatum,Silvergreen Bryum Moss,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Carex geyeri,Geyer's sedge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Carex magellanica,boreal bog sedge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Carex micropoda,Anderson Sedge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Carex pellita,woolly sedge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Carex praeceptorum,teacher sedge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Carex praticola,northern meadow sedge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ceanothus herbaceus,inland ceanothus,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Chenopodiastrum hybridum,Eurasian maple-leaved goosefoot,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Cichorium intybus,chicory,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Circaea alpina,Alpine Enchanter's-nightshade,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Cirsium ochrocentrum,yellowspine thistle,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Conocephalum salebrosum,Snakewort,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Coreopsis lanceolata,Lance-leaved Coreopsis,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Corylus cornuta,beaked hazelnut,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Crataegus macracantha,Large-thorn hawthorn,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Daucus carota,wild carrot,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Delphinium ramosum,Mountain Larkspur,Not listed,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Deschampsia cespitosa,tufted hair grass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Dipsacus fullonum,wild teasel,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Dryopteris filix-mas,male fern,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Eleocharis acicularis,Needle Spikerush,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Elymus albicans,Montana wild rye,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Elymus trachycaulus,slender wheat grass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Epilobium brachycarpum,panicled willowherb,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Equisetum laevigatum,smooth horsetail,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Erigeron coulteri,Coulter's fleabane,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Erigeron grandiflorus,Large-flower Fleabane,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Erigeron subtrinervis,Three-nerve Fleabane,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Eriocoma robusta,Sleepygrass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Eriophorum angustifolium,Common Cottongrass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Erythranthe floribunda,purple-stemmed monkeyflower,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Euphorbia cyparissias,cypress spurge,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Euphorbia davidii,David's spurge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Euphorbia serpillifolia,Thymeleaf Sandmat,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Euphorbia spathulata,Reticulate-seeded Spurge,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Fallopia convolvulus,Black-bindweed,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Fumaria vaillantii,Few-flowered Fumitory,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Gentiana fremontii,Fremont's gentian,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Gentiana prostrata,pygmy gentian,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Geum macrophyllum,Large-leaved Avens,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Glyceria striata,Fowl Mannagrass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Grimmia laevigata,Grimmia Dry Rock Moss,Not listed,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Grimmia pulvinata,Grey-cushioned Grimmia,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Helianthella quinquenervis,Nodding Dwarf Sunflower,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Helianthus nuttallii,Nuttall's Sunflower,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Hemerocallis fulva,orange day-lily,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Hieracium fendleri,Fendler's Hawkweed,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Hippuris vulgaris,Common Mare's Tail,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ipomopsis spicata,Spiked Ipomopsis,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Lactuca ludoviciana,Western Lettuce,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Lemna minor,Common Duckweed,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Leonurus cardiaca,common motherwort,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Lepidium campestre,field peppergrass,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Limosella aquatica,water mudwort,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Linum grandiflorum,Scarlet Flax,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Linum perenne,perennial flax,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Lithophragma glabrum,Bulbous woodland star,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Luzula comosa,Pacific Woodrush,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Luzula spicata,Spiked Woodrush,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Lycium barbarum,matrimony vine,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Matricaria chamomilla,German Chamomile,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Mentha arvensis,corn mint,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Mentzelia albicaulis,Whitestem Blazingstar,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Myosotis stricta,blue forget-me-not,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Myriopteris gracilis,Fee's lip fern,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Oenothera villosa,hairy evening primrose,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Opuntia fragilis,Brittle Pricklypear,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Oreoxis alpina,Alpine Oreoxis,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ornithogalum umbellatum,common star-of-Bethlehem,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Packera cana,woolly groundsel,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Packera dimorphophylla,,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Packera plattensis,Prairie Groundsel,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Panicum virgatum,switchgrass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Papaver orientale,Oriental Poppy,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Parietaria pensylvanica,Pennsylvania pellitory,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Pedicularis sudetica,,Not listed,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Phalaris arundinacea,reed canary grass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Plantago tweedyi,Tweedy's Plantain,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Poa alpina,Alpine Bluegrass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Polemonium brandegeei,Brandegee's jacob's-ladder,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Polystichum lonchitis,northern holly fern,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ranunculus aquatilis,common water-crowfoot,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ribes lacustre,swamp currant,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ribes laxiflorum,Trailing Blackcurrant,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ribes montigenum,mountain gooseberry,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Rosa acicularis,Prickly Wild Rose,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Rosa arkansana,prairie rose,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Salix brachycarpa,short-fruit willow,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Salix exigua,Narrowleaf Willow,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Salix lasiandra,Pacific Willow,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Saxifraga cespitosa,tufted saxifrage,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Saxifraga flagellaris,Spider Saxifrage,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Saxifraga hyperborea,Pygmy Saxifrage,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Scirpus microcarpus,Panicled Bulrush,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Scorzonera laciniata,Mediterranean Serpent-root,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Scrophularia lanceolata,lanceleaf figwort,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Senecio atratus,Tall Blacktip Ragwort,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Senecio vulgaris,common groundsel,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Senecio wootonii,Wooton's ragwort,Not listed,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Setaria viridis,Green Bristle Grass,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Solidago mollis,Ground Goldenrod,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Stachys pilosa,prairie woundwort,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Symphoricarpos rotundifolius,Roundleaf Snowberry,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Symphyotrichum ericoides,heath aster,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Tetraneuris acaulis,Stemless Four-nerved Daisy,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Thalictrum alpinum,Alpine Meadow-rue,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Tragia ramosa,desert noseburn,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Tragopogon pratensis,meadow salsify,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Tribulus terrestris,puncture vine,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Trifolium nanum,Dwarf Clover,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Ulmus pumila,Siberian elm,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Vahlodea atropurpurea,Mountain Hairgrass,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Valeriana occidentalis,western valerian,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Veronica serpyllifolia,thyme-leaved speedwell,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Veronica teucrium,Broadleaf Speedwell,Introduced,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Viola praemorsa,Canary Violet,Native,0,0,0,1,0,0.009992006394884092,-0.009992006394884092,Too few in the burn
+Chorispora tenella,crossflower,Introduced,0,1,4,25,0.03506311360448808,0.04582259740397378,-0.0107594837994857,Too few in the burn
+Delphinium nuttallianum,upland larkspur,Native,5,6,20,30,-0.7312409040604537,-0.7201276204941197,-0.011113283566334009,Similar
+Oreochrysum parryi,Parry's goldenrod,Native,1,3,2,3,-0.08313457632401222,-0.07201276204941198,-0.011121814274600239,Too few in the burn
+Astragalus shortianus,Early Purple Milkvetch,Not listed,1,6,4,24,0.022054764489452015,0.03583059100908969,-0.013775826519637675,Too few in the burn
+Cynoglossum officinale,hound's-tongue,Introduced,0,1,1,10,0.03506311360448808,0.0489256733318088,-0.013862559727320721,Too few in the burn
+Danthonia intermedia,Vasey's Oatgrass,Native,0,1,0,5,0.03506311360448808,0.04996003197442046,-0.014896918369932385,Too few in the burn
+Potentilla glaucophylla,Blueleaf Cinquefoil,Native,0,1,0,5,0.03506311360448808,0.04996003197442046,-0.014896918369932385,Too few in the burn
+Yucca glauca,Great Plains yucca,Native,2,10,19,96,-0.026016698230072126,-0.009660807814737549,-0.016355890415334577,Similar
+Astragalus tridactylicus,Foothill Milkvetch,Not listed,0,0,2,12,0,0.017915295504544845,-0.017915295504544845,Too few in the burn
+Pediomelum tenuiflorum,Slimflower Scurfpea,Native,0,0,2,12,0,0.017915295504544845,-0.017915295504544845,Too few in the burn
+Polypodium saximontanum,Rocky Mountain Polypody,Native,0,0,2,12,0,0.017915295504544845,-0.017915295504544845,Too few in the burn
+Pinus scopulorum,Rocky Mountains Ponderosa Pine,Native,6,38,28,165,0.2024548141456882,0.22083811787897595,-0.018383303733287754,Similar
+Amelanchier alnifolia,Saskatoon,Native,0,4,1,21,0.1402524544179523,0.15883774367553383,-0.018585289257581517,Too few in the burn
+Andropogon gerardi,big bluestem,Native,0,2,1,14,0.07012622720897616,0.08889369891134517,-0.018767471702369018,Too few in the burn
+Corallorhiza wisteriana,Spring Coralroot,Native,0,0,1,7,0,0.018949654147156523,-0.018949654147156523,Too few in the burn
+Alyssum alyssoides,Small Alison,Introduced,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Angelica grayi,Gray's angelica,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Asplenium trichomanes,maidenhair spleenwort,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Cardamine breweri,Brewer's bittercress,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Carex aurea,golden sedge,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Carex bella,Southwestern Showy Sedge,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Carex jonesii,Jones' sedge,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Celtis reticulata,netleaf hackberry,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Delphinium occidentale,Subalpine Larkspur,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Dianthus armeria,Deptford pink,Introduced,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Dyssodia papposa,Fetid marigold,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Equisetum hyemale,rough horsetail,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Erigeron melanocephalus,Blackhead Fleabane,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Erigeron tracyi,running fleabane,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Euphorbia brachycera,horned spurge,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Evolvulus nuttallianus,Shaggy dwarf morning-glory,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Festuca idahoensis,Idaho fescue,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Geranium viscosissimum,sticky geranium,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Grindelia squarrosa,Curlycup Gumweed,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Heterotheca hirsuta,Spokane false goldenaster,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Hymenoxys hoopesii,owlsclaws,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Juncus longistylis,long-styled rush,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Lathyrus latifolius,broad-leaved sweet pea,Introduced,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Mirabilis nyctaginea,Wild Four o'Clock,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Phyla cuneifolia,wedgeleaf frogfruit,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Polanisia dodecandra,redwhisker clammyweed,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Pseudoroegneria spicata,Bluebunch Wheatgrass,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Ranunculus alismifolius,Plantainleaf Buttercup,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Ranunculus inamoenus,Graceful Buttercup,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Selaginella scopulorum,Rocky Mountain Spikemoss,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Toxicoscordion paniculatum,foothill deathcamas,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Toxicoscordion venenosum,Meadow Deathcamas,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Verbena hastata,blue vervain,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Veronica peregrina,Purslane Speedwell,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Veronica plantaginea,White River coraldrops,Native,0,0,0,2,0,0.019984012789768184,-0.019984012789768184,Too few in the burn
+Euphorbia virgata,slender leafy spurge,Introduced,1,1,3,2,-0.15326080353298838,-0.1329991590613282,-0.02026164447166018,Too few in the burn
+Androsace septentrionalis,pygmy-flower rock-jasmine,Native,1,4,4,18,-0.048071462719524144,-0.02412144736021484,-0.023950015359309303,Too few in the burn
+Cotoneaster lucidus,Shiny Cotoneaster,Introduced,0,1,0,6,0.03506311360448808,0.05995203836930455,-0.024888924764816474,Too few in the burn
+Festuca kingii,Spike Fescue,Native,0,1,0,6,0.03506311360448808,0.05995203836930455,-0.024888924764816474,Too few in the burn
+Hackelia floribunda,many-flowered stickseed,Native,0,1,0,6,0.03506311360448808,0.05995203836930455,-0.024888924764816474,Too few in the burn
+Triodanis perfoliata,clasping Venus's looking glass,Native,0,1,0,6,0.03506311360448808,0.05995203836930455,-0.024888924764816474,Too few in the burn
+Delphinium geyeri,Plains Larkspur,Native,0,0,3,18,0,0.0268729432568173,-0.0268729432568173,Too few in the burn
+Valeriana edulis,edible valerian,Native,0,2,1,15,0.07012622720897616,0.09888570530622925,-0.0287594780972531,Too few in the burn
+Galium boreale,Northern Bedstraw,Native,3,18,4,30,0.06616429346835602,0.09578262937839427,-0.02961833591003825,Similar
+Asplenium septentrionale,northern spleenwort,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Capsella bursa-pastoris,shepherd's-purse,Introduced,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Carex brevior,Shortbeak Sedge,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Centaurea diffusa,diffuse knapweed,Introduced,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Corallorhiza trifida,northern coralroot,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Equisetum variegatum,variegated horsetail,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Humulus neomexicanus,western hop,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Madia glomerata,mountain tarweed,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Muhlenbergia montana,mountain muhly,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Oenothera serrulata,yellow sundrops,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Oxypolis fendleri,Fendler's cowbane,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Oxytropis splendens,Showy Locoweed,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Plantago lanceolata,ribwort plantain,Introduced,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Potentilla hippiana,Woolly Cinquefoil,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Potentilla pensylvanica,prairie cinquefoil,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Smilax lasioneuron,midwestern carrionflower,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Thelesperma megapotamicum,Rayless Greenthread,Native,0,0,0,3,0,0.029976019184652276,-0.029976019184652276,Too few in the burn
+Betula glandulosa,dwarf resin birch,Native,0,1,0,7,0.03506311360448808,0.06994404476418865,-0.034880931159700576,Too few in the burn
+Chimaphila umbellata,pipsissewa,Native,0,1,0,7,0.03506311360448808,0.06994404476418865,-0.034880931159700576,Too few in the burn
+Tripleurospermum inodorum,scentless mayweed,Introduced,0,1,0,7,0.03506311360448808,0.06994404476418865,-0.034880931159700576,Too few in the burn
+Viola adunca,hookedspur violet,Native,0,0,1,9,0,0.03893366693692471,-0.03893366693692471,Too few in the burn
+Senecio integerrimus,Tall western groundsel,Native,1,4,8,40,-0.048071462719524144,-0.008274869140893325,-0.039796593578630815,Too few in the burn
+Bryum argenteum,Silvery Bryum,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Carex inops,Sun Sedge,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Carex stevenii,Steven's sedge,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Dactylorhiza viridis,Frog Orchid,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Juncus drummondii,drummond's rush,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Linaria texana,Texas toadflax,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Myriopteris fendleri,Fendler's lipfern,Not listed,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Penstemon rydbergii,Rydberg's Beardtongue,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Physaria bellii,Front Range Twinpod,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Platanthera obtusata,Blunt-leaved Rein Orchid,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Platanthera unalascensis,Alaska Rein Orchid,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Ribes inerme,white-stemmed gooseberry,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Securigera varia,purple crownvetch,Introduced,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Senecio crassulus,Thickleaf Ragwort,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Solidago rigida,stiff-leaved goldenrod,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Vitis riparia,riverbank grape,Native,0,0,0,4,0,0.03996802557953637,-0.03996802557953637,Too few in the burn
+Erysimum capitatum,Western Wallflower,Native,3,13,18,85,-0.10915127455408437,-0.06857848754143037,-0.040572787012654,Similar
+Harbouria trachypleura,Whiskbroom Parsley,Native,2,9,10,49,-0.0610798118345602,-0.020335592821000767,-0.040744219013559436,Similar
+Nepeta cataria,Catnip,Introduced,0,1,1,13,0.03506311360448808,0.07890169251646109,-0.043838578911973014,Too few in the burn
+Nuphar polysepala,western yellow pond-lily,Native,1,4,0,0,-0.048071462719524144,0,-0.048071462719524144,Too few in the burn
+Liatris punctata,dotted gayfeather,Native,1,7,13,77,0.05711787809394009,0.10645741438465749,-0.0493395362907174,Similar
+Argyrochosma fendleri,Fendler's false cloak fern,Not listed,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Carex nova,Black Sedge,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Cornus sericea,red osier dogwood,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Dianthus barbatus,Sweet-William,Introduced,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Erigeron flagellaris,trailing fleabane,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Gaultheria humifusa,alpine wintergreen,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Goodyera oblongifolia,Western Rattlesnake Plantain,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Hieracium triste,Slender Hawkweed,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Poa bulbosa,Bulbous Bluegrass,Introduced,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Symphoricarpos occidentalis,Western Snowberry,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Woodsia oregana,Oregon woodsia,Native,0,0,0,5,0,0.04996003197442046,-0.04996003197442046,Too few in the burn
+Carex nigricans,black alpine sedge,Native,0,1,0,9,0.03506311360448808,0.08992805755395684,-0.05486494394946877,Too few in the burn
+Erythranthe minor,Colorado Monkeyflower,Native,0,0,1,11,0,0.05891767972669289,-0.05891767972669289,Too few in the burn
+Heuchera bracteata,bracted alumroot,Not listed,1,10,8,63,0.16230721890740432,0.2215412779414408,-0.059234059034036474,Similar
+Carex scopulorum,Holm's Rocky Mountain sedge,Native,0,0,0,6,0,0.05995203836930455,-0.05995203836930455,Too few in the burn
+Spinulum annotinum,interrupted clubmoss,Native,0,0,0,6,0,0.05995203836930455,-0.05995203836930455,Too few in the burn
+Helianthus annuus,Common Sunflower,Native,1,1,3,6,-0.15326080353298838,-0.09303113348179183,-0.060229670051196546,Too few in the burn
+Tragopogon dubius,Yellow Salsify,Introduced,3,7,9,20,-0.3195299561810128,-0.25910938765560726,-0.06042056852540556,Similar
+Allium brevistylum,Shortstyle Onion,Native,1,1,2,1,-0.15326080353298838,-0.09199677483918017,-0.061264028693808203,Too few in the burn
+Glycyrrhiza lepidota,Wild Licorice,Native,1,5,0,5,-0.013008349115036063,0.04996003197442046,-0.06296838108945653,Too few in the burn
+Pedicularis parryi,Parry's lousewort,Native,0,1,0,10,0.03506311360448808,0.09992006394884093,-0.06485695034435285,Too few in the burn
+Selaginella underwoodii,Underwood's Spikemoss,Native,0,1,0,10,0.03506311360448808,0.09992006394884093,-0.06485695034435285,Too few in the burn
+Alnus incana,grey alder,Native,1,2,2,5,-0.1181976899285003,-0.05202874925964379,-0.06616894066885651,Too few in the burn
+Geum rossii,Ross' Avens,Native,0,0,3,22,0,0.06684096883635365,-0.06684096883635365,Too few in the burn
+Eriogonum alatum,Winged Buckwheat,Native,0,2,1,19,0.07012622720897616,0.13885373088576564,-0.06872750367678948,Too few in the burn
+Eriogonum arcuatum,Curved buckwheat,Native,0,2,1,19,0.07012622720897616,0.13885373088576564,-0.06872750367678948,Too few in the burn
+Linaria dalmatica,Balkan toadflax,Introduced,1,7,13,79,0.05711787809394009,0.12644142717442566,-0.06932354908048557,Similar
+Arceuthobium vaginatum,Ponderosa Pine Dwarf-Mistletoe,Native,0,0,0,7,0,0.06994404476418865,-0.06994404476418865,Too few in the burn
+Astragalus cicer,Chickpea Milkvetch,Introduced,0,0,0,7,0,0.06994404476418865,-0.06994404476418865,Too few in the burn
+Lithospermum occidentale,western false gromwell,Native,0,0,0,7,0,0.06994404476418865,-0.06994404476418865,Too few in the burn
+Paronychia pulvinata,Cushion Paronychia,Native,0,0,0,7,0,0.06994404476418865,-0.06994404476418865,Too few in the burn
+Sisyrinchium montanum,strict blue-eyed grass,Native,1,1,3,7,-0.15326080353298838,-0.08303912708690772,-0.07022167644608066,Too few in the burn
+Ceanothus fendleri,Fendler's ceanothus,Native,0,1,0,11,0.03506311360448808,0.10991207034372502,-0.07484895673923694,Too few in the burn
+Artemisia dracunculus,Tarragon,Native,0,0,0,8,0,0.07993605115907274,-0.07993605115907274,Too few in the burn
+Physalis heterophylla,clammy groundcherry,Native,0,0,0,8,0,0.07993605115907274,-0.07993605115907274,Too few in the burn
+Pseudognaphalium canescens,Wright's cudweed,Native,0,0,0,8,0,0.07993605115907274,-0.07993605115907274,Too few in the burn
+Parnassia fimbriata,Fringed Grass of Parnassus,Native,0,1,1,17,0.03506311360448808,0.11886971809599743,-0.08380660449150935,Too few in the burn
+Lathyrus lanszwertii,Nevada Sweet Pea,Native,1,0,2,0,-0.18832391713747645,-0.10198878123406425,-0.0863351359034122,Too few in the burn
+Verbena bracteata,Bigbract Verbena,Native,1,4,1,9,-0.048071462719524144,0.03893366693692471,-0.08700512965644885,Too few in the burn
+Spiranthes romanzoffiana,Hooded Ladies' Tresses,Native,0,0,0,9,0,0.08992805755395684,-0.08992805755395684,Too few in the burn
+Nothocalais cuspidata,prairie false dandelion,Native,3,18,2,26,0.06616429346835602,0.15780338503292218,-0.09163909156456616,Similar
+Townsendia grandiflora,Largeflower Ground-Daisy,Not listed,0,1,2,23,0.03506311360448808,0.12782736584826987,-0.09276425224378179,Too few in the burn
+Brickellia californica,California Brickellbush,Native,0,1,0,13,0.03506311360448808,0.1298960831334932,-0.09483296952900513,Too few in the burn
+Asclepias speciosa,showy milkweed,Native,0,2,2,27,0.07012622720897616,0.16779539142780625,-0.0976691642188301,Too few in the burn
+Sambucus racemosa,red-berried elder,Native,3,16,3,25,-0.0039619337406201355,0.09681698802100593,-0.10077892176162606,Similar
+Anemone multifida,Cutleaf Anemone,Native,2,7,2,8,-0.13120603904353637,-0.02205273007499152,-0.10915330896854485,Similar
+Asclepias viridiflora,green comet milkweed,Native,0,0,0,11,0,0.10991207034372502,-0.10991207034372502,Too few in the burn
+Paronychia jamesii,James' Nailwort,Native,0,0,0,11,0,0.10991207034372502,-0.10991207034372502,Too few in the burn
+Syntrichia ruralis,Star Moss,Native,0,0,0,11,0,0.10991207034372502,-0.10991207034372502,Too few in the burn
+Primula pauciflora,dark-throated shooting star,Native,3,18,12,79,0.06616429346835602,0.1774358177914578,-0.11127152432310179,Similar
+Marrubium vulgare,White Horehound,Introduced,1,2,0,0,-0.1181976899285003,0,-0.1181976899285003,Too few in the burn
+Cirsium canescens,prairie thistle,Native,1,1,1,2,-0.15326080353298838,-0.031010377827263944,-0.12225042570572443,Too few in the burn
+Echinocereus viridiflorus,Green-flower Hedgehog Cactus,Not listed,1,9,0,25,0.12724410530291624,0.2498001598721023,-0.12255605456918606,Similar
+Eremogone fendleri,Fendler's sandwort,Native,1,2,3,16,-0.1181976899285003,0.006888930467049102,-0.1250866203955494,Too few in the burn
+Phleum pratense,Timothy grass,Introduced,4,5,10,6,-0.5779801005274654,-0.44999186780101674,-0.12798823272644866,Similar
+Linnaea borealis,Twinflower,Native,2,7,1,5,-0.13120603904353637,-0.0010343586426116657,-0.1301716804009247,Similar
+Cyrtorhyncha ranunculina,Tadpole buttercup,Native,0,3,4,44,0.10518934081346423,0.23567071890677155,-0.13048137809330732,Too few in the burn
+Populus tremuloides,quaking aspen,Native,4,19,13,71,-0.08709651006463233,0.046505376015352956,-0.1336018860799853,Similar
+Cirsium undulatum,wavyleaf thistle,Native,2,1,5,5,-0.3415847206704648,-0.20501192111074018,-0.13657279955972462,Too few in the burn
+Solidago multiradiata,northern goldenrod,Native,1,0,1,1,-0.18832391713747645,-0.04100238422214804,-0.1473215329153284,Too few in the burn
+Pulsatilla nuttalliana,prairie pasqueflower,Native,10,45,42,199,-0.30539905917280097,-0.15335513333341494,-0.15204392583938603,Similar
+Kalmia microphylla,Western Bog Laurel,Native,1,0,6,27,-0.18832391713747645,-0.03618217104032224,-0.15214174609715422,Too few in the burn
+Lactuca serriola,prickly lettuce,Introduced,2,4,2,2,-0.2363953798570006,-0.08200476844429608,-0.15439061141270452,Too few in the burn
+Lomatium orientale,Oriental Desert-parsley,Native,0,4,4,50,0.1402524544179523,0.29562275727607606,-0.15537030285812375,Too few in the burn
+Vaccinium scoparium,Grouse Whortleberry,Native,2,5,3,11,-0.20133226625251252,-0.04307110150737136,-0.15826116474514115,Too few in the burn
+Heuchera parvifolia,littleleaf alumroot,Native,0,3,1,32,0.10518934081346423,0.26874981401925885,-0.16356047320579462,Too few in the burn
+Potentilla recta,sulphur cinquefoil,Introduced,1,0,4,18,-0.18832391713747645,-0.02412144736021484,-0.1642024697772616,Too few in the burn
+Arnica cordifolia,heartleaf arnica,Native,4,14,8,31,-0.26241207808707273,-0.09820292669485016,-0.16420915139222259,Similar
+Erigeron speciosus,aspen fleabane,Native,1,0,2,8,-0.18832391713747645,-0.02205273007499152,-0.16627118706248495,Too few in the burn
+Rumex crispus,curled dock,Introduced,1,0,1,3,-0.18832391713747645,-0.021018371432379855,-0.1673055457050966,Too few in the burn
+Senecio rapifolius,Openwoods Ragwort,Not listed,1,2,0,5,-0.1181976899285003,0.04996003197442046,-0.16815772190292078,Too few in the burn
+Potentilla concinna,Early Cinquefoil,Native,1,1,0,2,-0.15326080353298838,0.019984012789768184,-0.17324481632275657,Too few in the burn
+Oxytropis multiceps,Nuttall's Oxytrope,Native,2,6,2,11,-0.16626915264802444,0.007923289109660756,-0.1741924417576852,Similar
+Cherleria obtusiloba,alpine sandwort,Native,1,0,4,19,-0.18832391713747645,-0.014129440965330751,-0.1741944761721457,Too few in the burn
+Townsendia hookeri,Hooker's Townsend-daisy,Native,1,2,1,11,-0.1181976899285003,0.05891767972669289,-0.1771153696551932,Too few in the burn
+Populus angustifolia,Narrowleaf Cottonwood,Native,1,1,1,8,-0.15326080353298838,0.02894166054204061,-0.182202464075029,Too few in the burn
+Saponaria officinalis,common soapwort,Introduced,1,1,0,3,-0.15326080353298838,0.029976019184652276,-0.18323682271764066,Too few in the burn
+Pinus contorta,lodgepole pine,Native,6,34,4,45,0.062202359727735884,0.24566272530165564,-0.18346036557391976,Similar
+Alyssum simplex,Field Alison,Introduced,1,1,6,34,-0.15326080353298838,0.03376187372386638,-0.18702267725685476,Too few in the burn
+Asclepias asperula,Antelopehorn Milkweed,Native,1,0,0,0,-0.18832391713747645,0,-0.18832391713747645,Too few in the burn
+Conioselinum scopulorum,,Native,1,0,0,0,-0.18832391713747645,0,-0.18832391713747645,Too few in the burn
+Muscari armeniacum,Garden Grape-hyacinth,Introduced,1,0,0,0,-0.18832391713747645,0,-0.18832391713747645,Too few in the burn
+Rhododendron albiflorum,White-flowered Rhododendron,Native,1,0,0,0,-0.18832391713747645,0,-0.18832391713747645,Too few in the burn
+Thinopyrum obtusiflorum,Tall Wheat Grass,Introduced,1,0,0,0,-0.18832391713747645,0,-0.18832391713747645,Too few in the burn
+Platanthera huronensis,green bog orchid,Native,1,1,0,4,-0.15326080353298838,0.03996802557953637,-0.19322882911252476,Too few in the burn
+Ceratocephala testiculata,Curveseed Butterwort,Introduced,1,0,0,1,-0.18832391713747645,0.009992006394884092,-0.19831592353236055,Too few in the burn
+Gayophytum diffusum,Diffuse Groundsmoke,Native,1,0,0,1,-0.18832391713747645,0.009992006394884092,-0.19831592353236055,Too few in the burn
+Solidago missouriensis,Missouri goldenrod,Native,1,0,0,1,-0.18832391713747645,0.009992006394884092,-0.19831592353236055,Too few in the burn
+Allium cernuum,nodding onion,Native,2,12,5,50,0.04410952897890403,0.24462836665904397,-0.20051883768013995,Similar
+Rhus trilobata,Skunkbush Sumac,Native,0,3,1,36,0.10518934081346423,0.30871783959879523,-0.203528498785331,Too few in the burn
+Dasiphora fruticosa,shrubby cinquefoil,Native,3,10,10,50,-0.21434061536754861,-0.010343586426116679,-0.20399702894143193,Similar
+Micranthes rhomboidea,Diamondleaf Saxifrage,Native,0,2,3,43,0.07012622720897616,0.2766731031289196,-0.20654687591994342,Too few in the burn
+Ribes cereum,wax currant,Native,5,11,28,108,-0.5559253360380134,-0.3487062466294174,-0.207219089408596,Similar
+Lonicera involucrata,twinberry honeysuckle,Native,5,25,4,35,-0.0650417455751803,0.14574266135281472,-0.21078440692799502,Similar
+Leucocrinum montanum,common starlily,Native,5,17,24,109,-0.3455466544110849,-0.13473667776640486,-0.21080997664468004,Similar
+Scutellaria brittonii,Britton's Skullcap,Native,2,10,7,55,-0.026016698230072126,0.19259961739940024,-0.21861631562947237,Similar
+Noccaea fendleri,Fendler's pennycress,Native,1,2,5,36,-0.1181976899285003,0.10474027713066672,-0.22293796705916702,Too few in the burn
+Dalea purpurea,purple prairie clover,Native,1,0,4,24,-0.18832391713747645,0.03583059100908969,-0.22415450814656615,Too few in the burn
+Lotus corniculatus,bird's-foot trefoil,Introduced,1,0,1,9,-0.18832391713747645,0.03893366693692471,-0.22725758407440116,Too few in the burn
+Ozomelis stauropetala,Smallflower Miterwort,Native,2,2,2,3,-0.30652160706597675,-0.07201276204941198,-0.23450884501656477,Too few in the burn
+Woodsia scopulina,Rocky Mountain woodsia,Native,1,1,0,9,-0.15326080353298838,0.08992805755395684,-0.2431888610869452,Too few in the burn
+Pedicularis bracteosa,Bracted Lousewort,Native,2,1,4,11,-0.3415847206704648,-0.0940654921244035,-0.2475192285460613,Too few in the burn
+Senecio triangularis,Arrowleaf Senecio,Native,1,4,0,20,-0.048071462719524144,0.19984012789768185,-0.247911590617206,Too few in the burn
+Maianthemum stellatum,star-flowered lily-of-the-valley,Native,2,6,5,34,-0.16626915264802444,0.0847562643408985,-0.25102541698892294,Similar
+Rudbeckia hirta,black-eyed Susan,Native,4,10,11,41,-0.40266453250502504,-0.15126603459710555,-0.25139849790791946,Similar
+Astragalus parryi,Parry's Milkvetch,Not listed,0,9,2,67,0.3155680224403927,0.5674756472231699,-0.2519076247827772,Similar
+Gentiana parryi,Parry's gentian,Native,2,3,5,24,-0.27145849346148865,-0.015163799607942428,-0.2562946938535462,Too few in the burn
+Bouteloua gracilis,Blue Grama,Native,1,3,1,24,-0.08313457632401222,0.18881376286018609,-0.2719483391841983,Too few in the burn
+Gentianella amarella,autumn gentian,Native,1,3,0,19,-0.08313457632401222,0.18984812150279776,-0.27298269782680995,Too few in the burn
+Rosa woodsii,Woods' rose,Native,3,3,5,7,-0.45978241059896513,-0.18502790832097196,-0.27475450227799314,Too few in the burn
+Gentianopsis thermalis,Rocky Mountain Fringed Gentian,Native,3,13,4,37,-0.10915127455408437,0.16572667414258294,-0.2748779486966673,Similar
+Berberis repens,creeping mahonia,Native,3,20,5,67,0.13629052067733216,0.41449247537207357,-0.2782019546947414,Similar
+Thermopsis montana,Mountain goldenbean,Native,2,1,2,4,-0.3415847206704648,-0.06202075565452789,-0.27956396501593694,Too few in the burn
+Geranium caespitosum,pinewoods geranium,Native,5,13,21,87,-0.4857991088290372,-0.20157764660275868,-0.28422146222627853,Similar
+Lupinus argenteus,silvery lupine,Native,2,4,3,21,-0.2363953798570006,0.056848962441469565,-0.2932443422984702,Too few in the burn
+Claytonia rosea,Madrean springbeauty,Native,5,18,16,80,-0.31048354080659685,-0.01654973828178665,-0.2939338025248102,Similar
+Acer glabrum,Rocky Mountain maple,Native,3,12,9,61,-0.14421438815857246,0.15056287453464054,-0.294777262693213,Similar
+Abies lasiocarpa,subalpine fir,Native,1,2,3,33,-0.1181976899285003,0.17675303918007867,-0.294950729108579,Too few in the burn
+Gentiana affinis,pleated gentian,Native,3,4,8,28,-0.4247192969944771,-0.12817894587950243,-0.2965403511149747,Too few in the burn
+Symphyotrichum laeve,smooth blue aster,Native,2,3,2,13,-0.27145849346148865,0.027907301899428957,-0.2993657953609176,Too few in the burn
+Elymus elymoides,Squirreltail,Native,2,3,0,3,-0.27145849346148865,0.029976019184652276,-0.3014345126461409,Too few in the burn
+Castilleja chromosa,Desert Paintbrush,Native,2,2,0,0,-0.30652160706597675,0,-0.30652160706597675,Too few in the burn
+Trollius albiflorus,White Globeflower,Native,4,5,11,29,-0.5779801005274654,-0.27117011133571467,-0.30680998919175073,Similar
+Juniperus scopulorum,Rocky Mountain Juniper,Native,2,3,13,70,-0.27145849346148865,0.03651336962046878,-0.30797186308195745,Too few in the burn
+Pedicularis racemosa,Sickletop Lousewort,Native,2,3,2,14,-0.27145849346148865,0.037899308294313046,-0.3093578017558017,Too few in the burn
+Prunus americana,American plum,Native,2,2,11,57,-0.30652160706597675,0.008606067721039952,-0.3151276747870167,Too few in the burn
+Opuntia polyacantha,Plains Pricklypear,Native,4,15,21,116,-0.22734896448258465,0.08819053884888006,-0.31553950333146474,Similar
+Oxytropis sericea,White Point-vetch,Native,2,5,2,22,-0.20133226625251252,0.11783535945338577,-0.3191676257058983,Too few in the burn
+Juniperus communis,common juniper,Native,4,11,17,82,-0.36760141890053694,-0.047560116109050636,-0.3200413027914863,Similar
+Picea engelmannii,Engelmann spruce,Native,2,2,1,8,-0.30652160706597675,0.02894166054204061,-0.33546326760801737,Too few in the burn
+Pyrola asarifolia,bog wintergreen,Native,3,5,3,11,-0.389656183389989,-0.04307110150737136,-0.3465850818826176,Similar
+Tradescantia occidentalis,Western Spiderwort,Native,1,9,4,68,0.12724410530291624,0.4754788723839897,-0.3482347670810735,Similar
+Penstemon glaber,Sawsepal Beardtongue,Native,3,7,7,40,-0.3195299561810128,0.04271952147613883,-0.36224947765715165,Similar
+Cymopterus lemmonii,Alpine False Springparsley,Native,3,4,2,4,-0.4247192969944771,-0.06202075565452789,-0.36269854133994917,Too few in the burn
+Viburnum edule,squashberry,Native,2,1,0,3,-0.3415847206704648,0.029976019184652276,-0.37156073985511706,Too few in the burn
+Fragaria virginiana,Virginia strawberry,Native,3,17,2,51,0.031101179863867942,0.40760354490502454,-0.3765023650411566,Similar
+Anticlea elegans,Mountain Deathcamas,Native,3,11,2,30,-0.1792775017630605,0.1977714106124585,-0.377048912375519,Similar
+Drymocallis fissa,Big-flower Cinquefoil,Native,2,11,1,44,0.00904641537441595,0.38865389075786794,-0.37960747538345196,Similar
+Primula parryi,Parry's primrose,Native,2,2,3,23,-0.30652160706597675,0.07683297523123775,-0.38335458229721453,Too few in the burn
+Erythronium grandiflorum,Glacier Lily,Native,4,6,8,26,-0.5429169869229773,-0.1481629586692706,-0.3947540282537067,Similar
+Castilleja miniata,giant red paintbrush,Native,3,4,2,8,-0.4247192969944771,-0.02205273007499152,-0.40266656691948555,Too few in the burn
+Iris missouriensis,western blue flag,Native,3,9,12,77,-0.24940372897203666,0.15745180500168965,-0.4068555339737263,Similar
+Viola canadensis,Canada Violet,Native,2,2,2,21,-0.30652160706597675,0.10784335305850168,-0.41436496012447843,Too few in the burn
+Micranthes odontoloma,Brook Saxifrage,Native,2,5,2,32,-0.20133226625251252,0.21775542340222667,-0.4190876896547392,Too few in the burn
+Astragalus laxmannii,Laxmann's Milkvetch,Native,2,2,0,16,-0.30652160706597675,0.15987210231814547,-0.4663937093841222,Too few in the burn
+Geranium richardsonii,Richardson's geranium,Native,4,5,8,30,-0.5779801005274654,-0.10819493308973425,-0.46978516743773113,Similar
+Medicago sativa,Alfalfa,Introduced,3,2,1,4,-0.49484552420345324,-0.01102636503749576,-0.48381915916595747,Too few in the burn
+Melilotus officinalis,Yellow Sweetclover,Introduced,3,3,1,9,-0.45978241059896513,0.03893366693692471,-0.49871607753588987,Too few in the burn
+Gutierrezia sarothrae,Broom Snakeweed,Native,2,0,0,13,-0.3766478342749529,0.1298960831334932,-0.5065439174084461,Too few in the burn
+Viola nuttallii,Nuttall's Violet,Native,4,11,9,60,-0.36760141890053694,0.14057086813975644,-0.5081722870402934,Rose more in the ring
+Astragalus alpinus,Alpine Milkvetch,Native,3,4,1,14,-0.4247192969944771,0.08889369891134517,-0.5136129959058222,Too few in the burn
+Artemisia frigida,fringed sagebrush,Native,7,16,22,88,-0.7572576022905261,-0.24258003082490656,-0.5146775714656195,Similar
+Convolvulus arvensis,field bindweed,Introduced,3,3,0,8,-0.45978241059896513,0.07993605115907274,-0.5397184617580378,Too few in the burn
+Argemone polyanthemos,thistle poppy,Native,3,5,7,53,-0.389656183389989,0.17261560460963207,-0.5622717879996211,Rose more in the ring
+Quincula lobata,purple groundcherry,Native,3,0,0,0,-0.5649717514124294,0,-0.5649717514124294,Too few in the burn
+Erigeron compositus,cut-leaf fleabane,Native,3,7,2,36,-0.3195299561810128,0.25772344898176314,-0.577253405162776,Rose more in the ring
+Streptopus amplexifolius,white twisted-stalk,Native,4,4,5,24,-0.6130432141319535,-0.015163799607942428,-0.597879414524011,Similar
+Apocynum androsaemifolium,spreading dogbane,Native,5,6,7,27,-0.7312409040604537,-0.08717656165735435,-0.6440643424030994,Similar
+Frasera speciosa,monument plant,Native,8,30,10,70,-0.4546979289651693,0.18949654147156517,-0.6441944704367345,Rose more in the ring
+Arctostaphylos uva-ursi,bearberry,Native,7,27,14,100,-0.3715633526411572,0.28527917084995946,-0.6568425234911166,Rose more in the ring
+Campanula petiolata,western harebell,Native,13,27,32,84,-1.5015068554660158,-0.7924919625747644,-0.7090148928912514,Similar
+Sedum lanceolatum,Lanceleaf Stonecrop,Native,10,35,32,177,-0.6560301952176818,0.1367646321494564,-0.7927948273671381,Rose more in the ring
+Castilleja linariifolia,Wyoming Paintbrush,Native,6,7,8,32,-0.8845017075934423,-0.08821092029996608,-0.7962907872934761,Similar
+Trifolium pratense,Red Clover,Introduced,6,7,4,16,-0.8845017075934423,-0.04410546014998304,-0.8403962474434592,Similar
+Calypso bulbosa,Eastern Fairy-slipper,Native,7,7,10,34,-1.0728256247309187,-0.17021568874426213,-0.9026099359866566,Similar
+Corallorhiza maculata,spotted coralroot,Native,7,18,5,56,-0.6871313750815499,0.3045804050283486,-0.9917117801098985,Rose more in the ring
+Aquilegia coerulea,blue columbine,Native,15,43,32,135,-1.3171448720691596,-0.28289963643567567,-1.034245235633484,Similar
+Eriogonum umbellatum,sulfur buckwheat,Native,11,35,24,145,-0.8443541123551584,0.2249755524494225,-1.069329664804581,Rose more in the ring
+Ericameria nauseosa,Rubber Rabbitbrush,Native,11,11,13,69,-1.6858688388628722,0.02652136322558469,-1.712390202088457,Rose more in the ring
